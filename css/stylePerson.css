@@ -1,0 +1,54 @@
+.coffeeBreak{
+    display: flex;
+
+    
+}
+
+.interiorCoffe{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+   
+      
+}
+.imgMenu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 550px;
+    height: auto;
+    padding: 10px;
+   
+
+}
+.article{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    border-bottom: solid 1px white;
+
+}
+.textoMenu{
+    width: 550px;
+}
+.tituloMenu{
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 30px;
+    color: #0dd1a9;
+    text-align: center;
+}
+.valor{
+    font-weight: bold;
+    font-size: 30px;
+    color: #0dd1a9;
+    text-align: right;
+}
+.container1{
+    display: flex;
+    padding: 20px;
+    justify-content: center;
+}
