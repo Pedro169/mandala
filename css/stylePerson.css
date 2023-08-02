@@ -52,3 +52,18 @@
     padding: 20px;
     justify-content: center;
 }
+
+.opcionCoffe{
+    border-radius: 2rem;
+    padding: 1rem 0rem 0rem 0rem;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    color: white;
+    
+}
+.p {
+    color: white;
+    top: 0.1rem;
+}
