@@ -1,69 +1,69 @@
-.coffeeBreak{
-    display: flex;
-
-    
+.coffeeBreak {
+  display: flex;
 }
 
-.interiorCoffe{
-    display: flex;
-    justify-content: space-between;
-    padding: 20px;
-   
-      
+.interiorCoffe {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
 }
-.imgMenu{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 550px;
-    height: auto;
-    padding: 10px;
-   
-
+.imgMenu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 550px;
+  height: auto;
+  padding: 10px;
 }
-.article{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    padding: 10px;
-    border-bottom: solid 1px white;
-
+.article {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  border-bottom: solid 1px white;
 }
-.textoMenu{
-    width: 550px;
+.textoMenu {
+  width: 550px;
 }
-.tituloMenu{
-    display: flex;
-    justify-content: center;
-    font-weight: bold;
-    font-size: 30px;
-    color: #0dd1a9;
-    text-align: center;
+.tituloMenu {
+  display: flex;
+  justify-content: center;
+  font-weight: bold;
+  font-size: 30px;
+  color: #0dd1a9;
+  text-align: center;
 }
-.valor{
-    font-weight: bold;
-    font-size: 30px;
-    color: #0dd1a9;
-    text-align: right;
+.valor {
+  font-weight: bold;
+  font-size: 30px;
+  color: #0dd1a9;
+  text-align: right;
 }
-.container1{
-    display: flex;
-    padding: 20px;
-    justify-content: center;
+.container1 {
+  display: flex;
+  padding: 20px;
+  justify-content: center;
 }
 
-.opcionCoffe{
-    border-radius: 2rem;
-    padding: 1rem 0rem 0rem 0rem;
+.opcionCoffe {
+  border-radius: 2rem;
+  padding: 1rem 0rem 0rem 0rem;
 }
-.logo{
-    display: flex;
-    align-items: center;
-    color: white;
-    
+.logo {
+  display: flex;
+  align-items: center;
+  color: white;
 }
 .p {
-    color: white;
-    top: 0.1rem;
+  color: white;
+  top: 0.1rem;
+}
+.subtitulo {
+  font-size: 2.0rem;
+  margin-top: 1rem;
+  margin-bottom: 3rem;
+}
+.alinear{
+    font-size: 10rem;
 }
