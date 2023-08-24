@@ -260,6 +260,7 @@ button:focus{
 	-webkit-box-align: center;
 	-ms-flex-align: center;
 	align-items: center;
+    justify-content: center;
 }
 .cover-slides .container > .row {
     height: 100%;
